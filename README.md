@@ -80,4 +80,6 @@ This repository and its contents are provided under the MIT License.
 
 ---
 
-*Prepared by \[Aarya Gupta].*
+## Contact
+
+For questions or feedback, please reach out to Aarya Gupta at \[[aarya22006@iiitd.ac.in](mailto:aarya22006@iiitd.ac.in)].
