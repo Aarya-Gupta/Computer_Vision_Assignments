@@ -1,0 +1,19 @@
+Point Cloud Registration Summary (RANSAC + Point-to-Plane ICP)
+============================================================
+
+Number of point clouds processed: 100
+Parameters Used:
+- RANSAC/ICP Voxel Size: 0.05
+- ICP Distance Threshold: 0.05
+- ICP Max Iterations: 200
+- KNN for Normals: 30
+
+Registration Results (Averages):
+- Average Final ICP Fitness: 0.9453
+- Average Final ICP RMSE (valid pairs): 0.0191
+
+Trajectory Information:
+- Total distance traveled: 0.2116 meters
+- Bounding box (X): -0.06 to 0.01 meters
+- Bounding box (Y): -0.07 to 0.00 meters
+- Bounding box (Z): -0.01 to 0.00 meters

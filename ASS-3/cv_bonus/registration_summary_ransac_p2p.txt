@@ -1,0 +1,28 @@
+Point Cloud Registration Summary (RANSAC + Point-to-Point ICP)
+==========================================================
+
+Dataset Directory: C:/Users/aarya/Github_Projects/Striver_A2Z/cv_bonus/selected_pcds
+Number of point clouds processed: 100
+
+Parameters Used:
+- Preprocessing Voxel Size: 0.05
+- ICP Distance Threshold: 0.1
+- ICP Max Iterations: 100
+- KNN for Normals (RANSAC): 30
+
+Registration Results (Pairwise):
+- Successful ICP Registrations: 99
+- Fallback (RANSAC only): 0
+- Fallback (Last Motion): 0
+- Fallback (Matrix Inversion): 0
+- Failed (Load/Preprocess/Normals): 0
+
+  No valid successful registrations to calculate average metrics.
+
+Trajectory Information:
+- Total estimated trajectory distance: 0.2639 meters
+- Bounding box (X): -0.06 to 0.01 m
+- Bounding box (Y): -0.07 to 0.01 m
+- Bounding box (Z): -0.00 to 0.00 m
+
+--- End of Report ---

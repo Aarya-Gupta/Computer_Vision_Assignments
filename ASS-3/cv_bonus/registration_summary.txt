@@ -1,0 +1,21 @@
+Point Cloud Registration Summary
+==============================
+
+Number of point clouds processed: 100
+Best hyperparameters used:
+- Distance threshold: 0.01
+- Max iterations: 100
+- Using normal estimation: True
+- KNN for normals: 30
+
+Registration Results:
+- Average fitness: 0.0003
+- Average RMSE: 0.0023
+- Average fitness improvement: 0.0001
+- Average RMSE improvement: 0.0032
+
+Trajectory Information:
+- Total distance traveled: 23.8861 meters
+- Bounding box (X): -3.28 to 0.00 meters
+- Bounding box (Y): -3.08 to 0.00 meters
+- Bounding box (Z): -2.80 to 1.09 meters
